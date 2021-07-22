@@ -1,0 +1,20 @@
+.row {
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.emptyspace {
+    padding-top: 10px;
+}
+
+.label-near {
+    display: flex;
+    margin-right: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.mybutton {
+    display:flex;
+    justify-content: space-between;
+}
